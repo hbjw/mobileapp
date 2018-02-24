@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bangxin.oa</string>
+				<string>com.hbsjw.app</string>
 				<key>bundle-version</key>
 				<string>1.0.8</string>
 				<key>kind</key>
